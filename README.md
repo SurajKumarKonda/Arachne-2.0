@@ -57,4 +57,4 @@ MIT License – see [LICENSE](LICENSE) for details.
 
 ---
 
-**Arachne 1.0**: *Where Robotics Meets Smooth Motion.*
+**Arachne 2.0**: *Where Robotics Meets Smooth Motion.*
