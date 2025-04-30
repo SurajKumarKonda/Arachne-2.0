@@ -1,4 +1,4 @@
-# Arachne 1.0  
+# Arachne 2.0  
 **An Advanced Robotic Surveillance Platform for Smooth Movement**
 
 Arachne 2.0 is a sophisticated robotic quadbot designed to provide smooth and fluid movement using sine wave values. This project implements precise servo control for effective navigation and is ideal for various environments. The bot features serial input control for user-defined movement commands.
